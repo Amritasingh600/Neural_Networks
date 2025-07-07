@@ -1,0 +1,10 @@
+venv/
+digit_app_env/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.swp
+generated/
+.ipynb_checkpoints/
+.gradio/
